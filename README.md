@@ -1,6 +1,6 @@
 # 🧩 Implementation & Comparison of Conventional Generative Models
 
-This project is an **educational course project** focused on implementing and comparing a variety of **generative models** on the **MNIST dataset**.  
+This project is an **educational project** focused on implementing and comparing a variety of **generative models** on the **MNIST dataset**.  
 It highlights the differences between classical model families and evaluates their generative capabilities in a unified framework.
 
 ---
@@ -15,7 +15,7 @@ It highlights the differences between classical model families and evaluates the
 - **`Diffusion_model.ipynb`** — Exploration of diffusion-based generative modeling.  
 
 ### Dataset
-- All experiments and comparisons are performed on the **MNIST handwritten digit dataset**, ensuring a consistent benchmark for evaluation.
+- All experiments and comparisons are performed on the **MNIST handwritten digit dataset** (in order to achieve computational feasibility), ensuring a consistent benchmark for evaluation.
 
 ---
 
@@ -32,7 +32,7 @@ Implementation-and-Comparison-of-Conventional-Generative-Models-main/
 ---
 
 ## 🎯 Educational Context
-This project was developed as part of a **university course project on machine learning and generative modeling**.  
+This project was developed as part of a **university course project on generative modeling**.  
 It provides hands-on exposure to:  
 - Building and training multiple generative models from scratch  
 - Comparing performance and sample quality across methods  
@@ -40,4 +40,4 @@ It provides hands-on exposure to:
 
 ---
 
-📚 Made for education — guiding students through the landscape of generative modeling with practical experiments on MNIST.
+📚 The project aims to provide insight on the landscape of generative modeling with practical experiments on MNIST.
